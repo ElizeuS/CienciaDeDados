@@ -16,17 +16,16 @@ Analise o arquivo contendo todos os resultados de testes de memória da BBC. Par
 
 __RESPOSTA__
 
-É impossível obterv a média dos valores da coluna __timestemp__, pois eles são valores qualitativos ordinais, aos quais não podem ser realizado operações do tipo multipliação e divisão (necessário para oter o valor da média), porém, é possivel ordeená-los para se obter um valor centrar apartir da mediana, que nesse caso corresponde a (7/18/2013 12:47:42).
+Não é impossível obterv a mÃ©dia dos valores da coluna __timestemp__, pois eles são valores qualitativos ordinais, aos quais nÃ£o podem ser realizado operaÃ§Ãµes do tipo multipliaÃ§Ã£o e divisÃ£o (necessÃ¡rio para oter o valor da mÃ©dia), porém, é possivel ordeená-los para se obter um valor centrar apartir da mediana, que nesse caso corresponde a (7/18/2013 12:47:42).
 
-Já na segunda coluna, referente ao quantitativo de horas ddormidas por dia por pessoa, é possível se obter valores como a média, sendo ela 6,696307625, e sua mediana, a qual é equivalente a 7.
+Já na segunda coluna, referente ao quantitativo de horas dormidas por dia por pessoa, É possível se obter valores como a média, sendo ela 6,696307625, e sua mediana, a qual é equivalente a 7.
 
 A média dos valores da coluna de __recognition__ é equivalente a (91,00370326), e obtem valor mediano equivalente a (92).
 
-A ultima coluna, referente aos valores de memória temporal, tem como média (77,54898975) e como mediana o valor (80).
+A ultima coluna, referente aos valores de memóia temporal, tem como média (77,54898975) e como mediana o valor (80).
 
 **todos os valores foram obtidos apartir do uso das fórmulas existentes na ferramenta EXCEL, na qual foin realizada a atividade**
 
   
-
 
 
